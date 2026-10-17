@@ -1,0 +1,3397 @@
+[
+  {
+    "source_id": "wx_001",
+    "source": "world_extra",
+    "name": "Pumpkin Chicken Curry",
+    "area": "World",
+    "category": "Main Course",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "olive oil",
+      "garlic cloves",
+      "onion",
+      "chicken breast",
+      "pumpkin puree",
+      "chicken stock/broth",
+      "coconut milk",
+      "tomato paste",
+      "cumin",
+      "curry powder",
+      "smoked paprika",
+      "cayenne pepper",
+      "salt"
+    ],
+    "effort_tier": 2,
+    "prep_time_minutes": 40,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": false,
+      "low_potassium": false,
+      "low_phosphorus": false
+    },
+    "nutrition": {
+      "calories_per_serving": 267,
+      "protein_g": 34.0,
+      "carbs_g": 5.0,
+      "fat_g": 12.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 448.0
+    },
+    "nutrition_tier": "protein_heavy",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_002",
+    "source": "world_extra",
+    "name": "Slow Cooker Beef Curry",
+    "area": "World",
+    "category": "Main Course",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "stew beef",
+      "olive oil",
+      "onion",
+      "garlic cloves",
+      "full fat coconut milk",
+      "diced tomatoes",
+      "cumin",
+      "curry",
+      "smoked paprika",
+      "cayenne pepper",
+      "ground ginger",
+      "salt"
+    ],
+    "effort_tier": 3,
+    "prep_time_minutes": 490,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": true,
+      "low_saturated_fat": false,
+      "dairy_free": false,
+      "low_potassium": false,
+      "low_phosphorus": false
+    },
+    "nutrition": {
+      "calories_per_serving": 362,
+      "protein_g": 36.0,
+      "carbs_g": 7.0,
+      "fat_g": 21.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 287.0
+    },
+    "nutrition_tier": "protein_heavy",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_003",
+    "source": "world_extra",
+    "name": "Oxtail Soup Recipe",
+    "area": "World",
+    "category": "Soups & Stews",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "oxtails",
+      "olive oil",
+      "carrots",
+      "spinach",
+      "scallions",
+      "onion",
+      "garlic cloves",
+      "beef broth",
+      "smoked paprike",
+      "cayenne pepper",
+      "black pepper",
+      "bouillon powder",
+      "salt",
+      "of water"
+    ],
+    "effort_tier": 3,
+    "prep_time_minutes": 185,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": true,
+      "low_potassium": false,
+      "low_phosphorus": true
+    },
+    "nutrition": {
+      "calories_per_serving": 458,
+      "protein_g": 48.0,
+      "carbs_g": 5.0,
+      "fat_g": 27.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 933.0
+    },
+    "nutrition_tier": "protein_heavy",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_004",
+    "source": "world_extra",
+    "name": "Keto Mushroom Soup",
+    "area": "World",
+    "category": "Soups & Stews",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "mushrooms",
+      "olive oil",
+      "onion",
+      "garlic",
+      "heavy whipping cream",
+      "chicken broth",
+      "cream cheese",
+      "black pepper",
+      "cayenne pepper",
+      "thyme",
+      "bouillon powder",
+      "salt"
+    ],
+    "effort_tier": 2,
+    "prep_time_minutes": 30,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": false,
+      "low_potassium": true,
+      "low_phosphorus": false
+    },
+    "nutrition": {
+      "calories_per_serving": 391,
+      "protein_g": 6.0,
+      "carbs_g": 6.0,
+      "fat_g": 29.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 1312.0
+    },
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_005",
+    "source": "world_extra",
+    "name": "Palmini Pasta Shrimp Stir Fry",
+    "area": "World",
+    "category": "Pasta & Noodles",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "container palmini pasta",
+      "shrimp",
+      "olive oil",
+      "spinach",
+      "black pepper",
+      "cayenne pepper",
+      "thyme",
+      "bouillon powder",
+      "salt",
+      "scallions",
+      "pepper flakes"
+    ],
+    "effort_tier": 2,
+    "prep_time_minutes": 20,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": false
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": true,
+      "dairy_free": true,
+      "low_potassium": false,
+      "low_phosphorus": true
+    },
+    "nutrition": {
+      "calories_per_serving": 339,
+      "protein_g": 39.0,
+      "carbs_g": 9.0,
+      "fat_g": 17.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 1807.0
+    },
+    "nutrition_tier": "protein_heavy",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_006",
+    "source": "world_extra",
+    "name": "Harissa Chicken (Spicy North African Chicken)",
+    "area": "World",
+    "category": "Main Course",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "boneless chicken thighs",
+      "olive oil",
+      "harissa powder",
+      "smoked paprika",
+      "cumin",
+      "cayenne pepper",
+      "lemon juice"
+    ],
+    "effort_tier": 3,
+    "prep_time_minutes": 85,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": true,
+      "low_saturated_fat": true,
+      "dairy_free": true,
+      "low_potassium": true,
+      "low_phosphorus": true
+    },
+    "nutrition": {
+      "calories_per_serving": 289,
+      "protein_g": 19.0,
+      "carbs_g": 5.0,
+      "fat_g": 22.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 89.0
+    },
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_007",
+    "source": "world_extra",
+    "name": "African Fried Cabbage Recipe",
+    "area": "World",
+    "category": "Main Course",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "of cabbage",
+      "palm oil",
+      "shrimp",
+      "smoked catfish",
+      "green onions",
+      "carrots",
+      "tomato",
+      "red bell pepper",
+      "habanero pepper",
+      "onions",
+      "cayenne pepper",
+      "crayfish",
+      "black pepper",
+      "salt"
+    ],
+    "effort_tier": 2,
+    "prep_time_minutes": 35,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": true,
+      "low_potassium": false,
+      "low_phosphorus": true
+    },
+    "nutrition": {
+      "calories_per_serving": 444,
+      "protein_g": 47.0,
+      "carbs_g": 16.0,
+      "fat_g": 20.0,
+      "fiber_g": 5.0,
+      "sodium_mg": 402.0
+    },
+    "nutrition_tier": "protein_heavy",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_008",
+    "source": "world_extra",
+    "name": "Berbere Chicken (Delicious Ethiopian Chicken)",
+    "area": "World",
+    "category": "Main Course",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "chicken thighs",
+      "olive oil",
+      "berbere spice",
+      "lemon juice",
+      "black pepper",
+      "salt",
+      "cayenne pepper"
+    ],
+    "effort_tier": 2,
+    "prep_time_minutes": 30,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": true,
+      "dairy_free": true,
+      "low_potassium": true,
+      "low_phosphorus": true
+    },
+    "nutrition": {
+      "calories_per_serving": 295,
+      "protein_g": 18.0,
+      "carbs_g": 3.0,
+      "fat_g": 22.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1129.0
+    },
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_009",
+    "source": "world_extra",
+    "name": "Sega Wat (Ethiopian Beef Stew)",
+    "area": "World",
+    "category": "Soups & Stews",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "stew beef",
+      "niter kibbeh",
+      "eggs",
+      "onion",
+      "garlic",
+      "ginger",
+      "beef stock",
+      "tomato paste",
+      "berbere spice",
+      "smoked paprika",
+      "black pepper",
+      "cumin",
+      "salt"
+    ],
+    "effort_tier": 3,
+    "prep_time_minutes": 70,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": true,
+      "low_potassium": false,
+      "low_phosphorus": true
+    },
+    "nutrition": {
+      "calories_per_serving": 335,
+      "protein_g": 33.0,
+      "carbs_g": 7.0,
+      "fat_g": 18.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 1007.0
+    },
+    "nutrition_tier": "protein_heavy",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_010",
+    "source": "world_extra",
+    "name": "Kuku Paka (Kenyan Chicken Curry)",
+    "area": "World",
+    "category": "Main Course",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "skinless chicken thighs",
+      "onion",
+      "garlic",
+      "coconut oil",
+      "roma tomato",
+      "jalapeños",
+      "unsweetened coconut milk",
+      "lemon juice",
+      "eggs",
+      "curry powder",
+      "turmeric",
+      "cumin",
+      "ground coriander",
+      "cayenne pepper",
+      "sall to taste"
+    ],
+    "effort_tier": 3,
+    "prep_time_minutes": 50,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": true,
+      "low_saturated_fat": false,
+      "dairy_free": false,
+      "low_potassium": false,
+      "low_phosphorus": false
+    },
+    "nutrition": {
+      "calories_per_serving": 259,
+      "protein_g": 25.0,
+      "carbs_g": 5.0,
+      "fat_g": 16.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 192.0
+    },
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_011",
+    "source": "world_extra",
+    "name": "Cow Foot Soup (Cow Heel Soup)",
+    "area": "World",
+    "category": "Soups & Stews",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "cow feet",
+      "onion",
+      "olive oil",
+      "arrowroot powder",
+      "habanero pepper",
+      "red bell pepper",
+      "scallions",
+      "bouillon powder",
+      "crayfish",
+      "thyme",
+      "smoked paprika",
+      "cayenne pepper",
+      "salt"
+    ],
+    "effort_tier": 3,
+    "prep_time_minutes": 70,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": true,
+      "dairy_free": true,
+      "low_potassium": true,
+      "low_phosphorus": true
+    },
+    "nutrition": {
+      "calories_per_serving": 469,
+      "protein_g": 30.0,
+      "carbs_g": 1.0,
+      "fat_g": 1.0,
+      "fiber_g": 1.0,
+      "sodium_mg": null
+    },
+    "nutrition_tier": "protein_heavy",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_012",
+    "source": "world_extra",
+    "name": "African Goat Stew",
+    "area": "World",
+    "category": "Soups & Stews",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "goat meat",
+      "bouillon powder",
+      "black pepper",
+      "salt",
+      "plum tomatoes",
+      "red bell pepper",
+      "habanero pepper",
+      "onions",
+      "thyme",
+      "curry",
+      "cayenne pepper",
+      "olive oil"
+    ],
+    "effort_tier": 3,
+    "prep_time_minutes": 70,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": true,
+      "low_potassium": false,
+      "low_phosphorus": true
+    },
+    "nutrition": {
+      "calories_per_serving": 190,
+      "protein_g": 22.0,
+      "carbs_g": 3.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 307.0
+    },
+    "nutrition_tier": "light",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_013",
+    "source": "world_extra",
+    "name": "Fumbwa (Congolese Spinach Stew Recipe)",
+    "area": "World",
+    "category": "Soups & Stews",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "onion",
+      "garlic cloves",
+      "smoked catfish",
+      "palm oil",
+      "peanut butter",
+      "tomatoes",
+      "spinach",
+      "bouillon powder",
+      "salt",
+      "black pepper",
+      "stock",
+      "habanero",
+      "water"
+    ],
+    "effort_tier": 2,
+    "prep_time_minutes": 40,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": false,
+      "low_potassium": false,
+      "low_phosphorus": false
+    },
+    "nutrition": {
+      "calories_per_serving": 411,
+      "protein_g": 58.0,
+      "carbs_g": 4.0,
+      "fat_g": 18.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 399.0
+    },
+    "nutrition_tier": "protein_heavy",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_014",
+    "source": "world_extra",
+    "name": "Eggplant Chicken Stew",
+    "area": "World",
+    "category": "Soups & Stews",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "eggplants",
+      "chicken breast",
+      "olive oil",
+      "roma tomatoes",
+      "red bell pepper",
+      "habanero pepper",
+      "onion",
+      "bouillon powder",
+      "cayenne pepper",
+      "black pepper",
+      "salt",
+      "salt and pepper"
+    ],
+    "effort_tier": 2,
+    "prep_time_minutes": 35,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": true,
+      "dairy_free": true,
+      "low_potassium": false,
+      "low_phosphorus": true
+    },
+    "nutrition": {
+      "calories_per_serving": 180,
+      "protein_g": 3.0,
+      "carbs_g": 10.0,
+      "fat_g": 14.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 82.0
+    },
+    "nutrition_tier": "light",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_015",
+    "source": "world_extra",
+    "name": "Keto Cabbage Soup",
+    "area": "World",
+    "category": "Soups & Stews",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "stew beef",
+      "olive oil",
+      "cabbage",
+      "tomato paste",
+      "red bell pepper",
+      "scallion",
+      "garlic cloves",
+      "cayenne pepper",
+      "bouillon powder",
+      "thyme",
+      "ground crayfish",
+      "salt to taste",
+      "meat stock",
+      "water",
+      "pinch of black pepper",
+      "pinch of salt"
+    ],
+    "effort_tier": 3,
+    "prep_time_minutes": 85,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": true,
+      "low_potassium": false,
+      "low_phosphorus": true
+    },
+    "nutrition": {
+      "calories_per_serving": 238,
+      "protein_g": 25.0,
+      "carbs_g": 3.0,
+      "fat_g": 12.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 181.0
+    },
+    "nutrition_tier": "light",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_016",
+    "source": "world_extra",
+    "name": "Gomen Wat (Ethiopian Collard Greens)",
+    "area": "World",
+    "category": "Main Course",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "niter kibbeh",
+      "bunches collard greens",
+      "onion",
+      "garlic",
+      "tomatoes",
+      "smoked paprika",
+      "cayenne pepper",
+      "cumin",
+      "coriander",
+      "cardamom",
+      "black pepper",
+      "salt to taste"
+    ],
+    "effort_tier": 2,
+    "prep_time_minutes": 35,
+    "dietary_tags": {
+      "vegetarian": true,
+      "vegan": true,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": true,
+      "low_saturated_fat": true,
+      "dairy_free": true,
+      "low_potassium": false,
+      "low_phosphorus": true
+    },
+    "nutrition": {
+      "calories_per_serving": 93,
+      "protein_g": 3.0,
+      "carbs_g": 8.0,
+      "fat_g": 7.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 16.0
+    },
+    "nutrition_tier": "light",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_017",
+    "source": "world_extra",
+    "name": "Instant Pot Chicken Curry",
+    "area": "World",
+    "category": "Main Course",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "chicken breast",
+      "olive oil",
+      "garlic",
+      "onion",
+      "tomato",
+      "coconut milk",
+      "chicken broth",
+      "cumin",
+      "curry",
+      "smoked paprika",
+      "cayenne pepper",
+      "ground ginger",
+      "salt",
+      "arrowroot powder"
+    ],
+    "effort_tier": 2,
+    "prep_time_minutes": 45,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": false,
+      "low_potassium": false,
+      "low_phosphorus": false
+    },
+    "nutrition": {
+      "calories_per_serving": 299,
+      "protein_g": 33.0,
+      "carbs_g": 5.0,
+      "fat_g": 15.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 400.0
+    },
+    "nutrition_tier": "protein_heavy",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_018",
+    "source": "world_extra",
+    "name": "Mafe (Maafe) – Senegalese Peanut Stew",
+    "area": "World",
+    "category": "Soups & Stews",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "stew beef",
+      "peanut butter",
+      "red bell pepper",
+      "tomato paste",
+      "onion",
+      "beef bouillon powder",
+      "cayenne pepper",
+      "olive oil",
+      "salt",
+      "black pepper",
+      "water",
+      "stock/broth",
+      "pinch of salt"
+    ],
+    "effort_tier": 2,
+    "prep_time_minutes": 35,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": false,
+      "low_potassium": false,
+      "low_phosphorus": false
+    },
+    "nutrition": {
+      "calories_per_serving": 443,
+      "protein_g": 39.0,
+      "carbs_g": 8.0,
+      "fat_g": 29.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 812.0
+    },
+    "nutrition_tier": "protein_heavy",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_019",
+    "source": "world_extra",
+    "name": "Jamaican Goat Curry Recipe",
+    "area": "World",
+    "category": "Main Course",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "goat meat",
+      "olive oil",
+      "onion",
+      "red bell pepper",
+      "tomato",
+      "garlic",
+      "inch ginger root",
+      "water",
+      "coconut milk",
+      "paprika",
+      "cinnamon ponder",
+      "cayenne pepper",
+      "salt",
+      "curry",
+      "bouillon powder",
+      "cumin"
+    ],
+    "effort_tier": 3,
+    "prep_time_minutes": 70,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": false,
+      "low_potassium": false,
+      "low_phosphorus": false
+    },
+    "nutrition": {
+      "calories_per_serving": 219,
+      "protein_g": 29.0,
+      "carbs_g": 3.0,
+      "fat_g": 9.0,
+      "fiber_g": 1.0,
+      "sodium_mg": 478.0
+    },
+    "nutrition_tier": "light",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_020",
+    "source": "world_extra",
+    "name": "Poulet Yassa Recipe – Authentic Senegalese Chicken Recipe",
+    "area": "World",
+    "category": "Main Course",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "chicken thighs",
+      "olive oil",
+      "onions",
+      "garlic cloves",
+      "dijon mustard",
+      "chicken broth",
+      "lemon juice",
+      "smoked paprika",
+      "cayenne pepper",
+      "bouillon powder",
+      "salt"
+    ],
+    "effort_tier": 3,
+    "prep_time_minutes": 165,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": true,
+      "dairy_free": true,
+      "low_potassium": true,
+      "low_phosphorus": true
+    },
+    "nutrition": {
+      "calories_per_serving": 403,
+      "protein_g": 21.0,
+      "carbs_g": 14.0,
+      "fat_g": 30.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 1104.0
+    },
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_021",
+    "source": "world_extra",
+    "name": "Shakshuka for One (North African Poached Eggs)",
+    "area": "World",
+    "category": "Main Course",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "diced tomatoes",
+      "chopped onions",
+      "red bell pepper",
+      "eggs",
+      "garlic clove",
+      "olive oil",
+      "salt",
+      "smoked paprika",
+      "cajun seasoning",
+      "cayenne pepper",
+      "cumin",
+      "parsley/cilantro",
+      "red pepper flakes"
+    ],
+    "effort_tier": 2,
+    "prep_time_minutes": 20,
+    "dietary_tags": {
+      "vegetarian": true,
+      "vegan": true,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": true,
+      "dairy_free": true,
+      "low_potassium": false,
+      "low_phosphorus": true
+    },
+    "nutrition": {
+      "calories_per_serving": 472,
+      "protein_g": 14.0,
+      "carbs_g": 20.0,
+      "fat_g": 37.0,
+      "fiber_g": 6.0,
+      "sodium_mg": 1289.0
+    },
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_022",
+    "source": "world_extra",
+    "name": "Keto Pizza",
+    "area": "World",
+    "category": "Main Course",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "⅓ cup almond flour",
+      "eggs",
+      "butter",
+      "baking soda",
+      "garlic powder",
+      "salt",
+      "peperoni",
+      "keto pizza sauce",
+      "mozzarella cheese",
+      "olives"
+    ],
+    "effort_tier": 2,
+    "prep_time_minutes": 22,
+    "dietary_tags": {
+      "vegetarian": true,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": false
+    },
+    "health_tags": {
+      "low_gi": false,
+      "low_sodium": true,
+      "low_saturated_fat": false,
+      "dairy_free": false,
+      "low_potassium": true,
+      "low_phosphorus": false
+    },
+    "nutrition": {
+      "calories_per_serving": 251,
+      "protein_g": 8.0,
+      "carbs_g": 7.0,
+      "fat_g": 23.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 275.0
+    },
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_023",
+    "source": "world_extra",
+    "name": "Sukuma Wiki (Kenyan Collard Greens)",
+    "area": "World",
+    "category": "Main Course",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "collard greens",
+      "beef)",
+      "olive oil",
+      "onion",
+      "tomatoes",
+      "cayenne pepper",
+      "bouillon powder",
+      "salt",
+      "black pepper"
+    ],
+    "effort_tier": 2,
+    "prep_time_minutes": 25,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": true,
+      "low_potassium": false,
+      "low_phosphorus": true
+    },
+    "nutrition": {
+      "calories_per_serving": 386,
+      "protein_g": 22.0,
+      "carbs_g": 7.0,
+      "fat_g": 30.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 734.0
+    },
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_024",
+    "source": "world_extra",
+    "name": "Keto Shrimp Coconut Curry",
+    "area": "World",
+    "category": "Main Course",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "shrimp",
+      "coconut oil",
+      "coconut milk",
+      "ginger",
+      "curry powder",
+      "onion",
+      "garlic",
+      "cinnamon powder",
+      "ground cumin",
+      "cayenne pepper",
+      "black pepper",
+      "salt",
+      "parsley"
+    ],
+    "effort_tier": 2,
+    "prep_time_minutes": 25,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": false,
+      "low_potassium": true,
+      "low_phosphorus": false
+    },
+    "nutrition": {
+      "calories_per_serving": 237,
+      "protein_g": 28.0,
+      "carbs_g": 3.0,
+      "fat_g": 13.0,
+      "fiber_g": 0.4,
+      "sodium_mg": 417.0
+    },
+    "nutrition_tier": "light",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_025",
+    "source": "world_extra",
+    "name": "Awaze Tibs – Ethiopian Beef Tibs Recipe",
+    "area": "World",
+    "category": "Main Course",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "berbere",
+      "black pepper",
+      "cumin",
+      "ground ginger",
+      "salt",
+      "olive oil",
+      "water",
+      "beef",
+      "niter kibbeh",
+      "onion",
+      "garlic",
+      "jalapeno pepper",
+      "lemon juice"
+    ],
+    "effort_tier": 2,
+    "prep_time_minutes": 25,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": true,
+      "low_potassium": true,
+      "low_phosphorus": true
+    },
+    "nutrition": {
+      "calories_per_serving": 486,
+      "protein_g": 20.0,
+      "carbs_g": 3.0,
+      "fat_g": 43.0,
+      "fiber_g": 2.0,
+      "sodium_mg": 779.0
+    },
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_026",
+    "source": "world_extra",
+    "name": "African Chicken Peanut Stew",
+    "area": "World",
+    "category": "Soups & Stews",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "chicken thighs",
+      "tomato sauce",
+      "red bell pepper",
+      "peanut butter",
+      "olive oil",
+      "onion",
+      "cayenne pepper",
+      "bouillon powder",
+      "chicken stock",
+      "black pepper",
+      "salt"
+    ],
+    "effort_tier": 2,
+    "prep_time_minutes": 30,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": false,
+      "low_potassium": false,
+      "low_phosphorus": false
+    },
+    "nutrition": {
+      "calories_per_serving": 504,
+      "protein_g": 26.0,
+      "carbs_g": 10.0,
+      "fat_g": 41.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 496.0
+    },
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_027",
+    "source": "world_extra",
+    "name": "How to Make Perfect Cauliflower Rice (Fresh or Frozen)",
+    "area": "World",
+    "category": "Rice Dishes",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "cauliflower",
+      "olive oil",
+      "salt",
+      "black pepper"
+    ],
+    "effort_tier": 1,
+    "prep_time_minutes": 20,
+    "dietary_tags": {
+      "vegetarian": true,
+      "vegan": true,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": true,
+      "dairy_free": true,
+      "low_potassium": true,
+      "low_phosphorus": true
+    },
+    "nutrition": {
+      "calories_per_serving": 99,
+      "protein_g": 2.0,
+      "carbs_g": 7.0,
+      "fat_g": 7.0,
+      "fiber_g": 3.0,
+      "sodium_mg": 624.0
+    },
+    "nutrition_tier": "light",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_028",
+    "source": "world_extra",
+    "name": "Curry Cauliflower Rice",
+    "area": "World",
+    "category": "Rice Dishes",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "olive oil",
+      "onion",
+      "garlic",
+      "red bell pepper",
+      "scallions",
+      "curry powder",
+      "black pepper",
+      "bouillon powder",
+      "thyme",
+      "salt",
+      "cauliflower rice",
+      "cilantro"
+    ],
+    "effort_tier": 2,
+    "prep_time_minutes": 20,
+    "dietary_tags": {
+      "vegetarian": true,
+      "vegan": true,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": false,
+      "low_sodium": false,
+      "low_saturated_fat": true,
+      "dairy_free": true,
+      "low_potassium": true,
+      "low_phosphorus": true
+    },
+    "nutrition": {
+      "calories_per_serving": 177,
+      "protein_g": 3.0,
+      "carbs_g": 10.0,
+      "fat_g": 15.0,
+      "fiber_g": 4.0,
+      "sodium_mg": 393.0
+    },
+    "nutrition_tier": "light",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_029",
+    "source": "world_extra",
+    "name": "Cajun Chicken Pasta Recipe",
+    "area": "World",
+    "category": "Pasta & Noodles",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "300gms chicken thigh",
+      "pasta of your choice, preferably tagliatelle, fettuccine, spaghetti",
+      "sliced mushroom",
+      "double cream",
+      "40gms butter",
+      "olive oil",
+      "red bell pepper sliced and 1/2 scotch bonnet sliced",
+      "yellow/orange pepper sliced",
+      "chopped coriander/parsley",
+      "garlic",
+      "cajun seasoning",
+      "garlic powder",
+      "cumin powder",
+      "beef stock",
+      "knorr chicken cube",
+      "salt to taste"
+    ],
+    "effort_tier": 3,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": false
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": false,
+      "low_potassium": true,
+      "low_phosphorus": false
+    },
+    "nutrition": null,
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_030",
+    "source": "world_extra",
+    "name": "Coconut Chicken Curry",
+    "area": "World",
+    "category": "Main Course",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "500gms boneless chicken",
+      "coconut milk",
+      "cooking oil",
+      "chopped cilantro/coriander",
+      "spring onions",
+      "red and green chilli peppers you can also use bell peppers.",
+      "chopped onion",
+      "levelled tablespoons curry powder",
+      "paprika",
+      "cumin powder",
+      "crushed red chilli peppers",
+      "chicken seasoning",
+      "ground ginger",
+      "garlic cloves",
+      "minced ginger",
+      "garlic powder",
+      "knorr chicken cube",
+      "salt to taste"
+    ],
+    "effort_tier": 3,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": false,
+      "low_potassium": true,
+      "low_phosphorus": false
+    },
+    "nutrition": {
+      "calories_per_serving": 320,
+      "protein_g": 30.0,
+      "carbs_g": 12.0,
+      "fat_g": 16.0,
+      "fiber_g": 2.0,
+      "sodium_mg": null
+    },
+    "nutrition_tier": "protein_heavy",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_031",
+    "source": "world_extra",
+    "name": "Thai Shrimp Curry Recipe",
+    "area": "World",
+    "category": "Main Course",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "king/15 medium size prawns",
+      "coconut milk",
+      "olive oil",
+      "size onion sliced thinly",
+      "minced garlic",
+      "fish sauce",
+      "fresh coriander",
+      "chopped spring onions",
+      "scotch bonnet sliced thinly",
+      "curry powder",
+      "thyme"
+    ],
+    "effort_tier": 2,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": true,
+      "low_saturated_fat": false,
+      "dairy_free": false,
+      "low_potassium": true,
+      "low_phosphorus": false
+    },
+    "nutrition": null,
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_032",
+    "source": "world_extra",
+    "name": "Chicken And Mushroom Stir Fry",
+    "area": "World",
+    "category": "Main Course",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "150g boneless chicken",
+      "50g mushroom, thinly sliced",
+      "peanut oil",
+      "rich chicken stock",
+      "each of yellow, red and green bell peppers, thinly sliced",
+      "big carrot, thinly sliced",
+      "spring onions, sliced",
+      "onion sliced",
+      "scotch bonnet, sliced",
+      "oyster sauce",
+      "soy sauce",
+      "sesame oil",
+      "corn starch",
+      "garlic minced",
+      "inch ginger root minced",
+      "garlic powder",
+      "black pepper",
+      "1.5 knorr chicken cube"
+    ],
+    "effort_tier": 3,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": true,
+      "dairy_free": true,
+      "low_potassium": true,
+      "low_phosphorus": true
+    },
+    "nutrition": null,
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_033",
+    "source": "world_extra",
+    "name": "Coconut Fish Curry",
+    "area": "World",
+    "category": "Main Course",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "firm fish steaks",
+      "coconut oil",
+      "400g coconut milk",
+      "cherry tomatoes chopped",
+      "-3 red",
+      "8-10 curry leaves",
+      "turmeric",
+      "onion",
+      "fish sauce",
+      "spring onions chopped",
+      "fresh coriander",
+      "ground coriander powder",
+      "cumin powder",
+      "fresh lemon",
+      "garlic powder",
+      "minced ginger",
+      "garlic cloves",
+      "knorr chicken cubes"
+    ],
+    "effort_tier": 3,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": false,
+      "low_potassium": false,
+      "low_phosphorus": false
+    },
+    "nutrition": null,
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_034",
+    "source": "world_extra",
+    "name": "Homemade Pizza – Chicken, Bacon and Mushroom",
+    "area": "World",
+    "category": "Main Course",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "for the dough",
+      "250g all purpose flour",
+      "dry yeast",
+      "olive oil",
+      "warm water",
+      "sugar",
+      "salt",
+      "italian herbs",
+      "garlic powder",
+      "for the sauce",
+      "tomatoes",
+      "red bell pepper",
+      "carrot",
+      "onion",
+      "garlic cloves",
+      "paprika",
+      "chopped basil",
+      "dried oregano",
+      "for “my” toppings: quantities as desired!",
+      "diced chicken breast",
+      "mushrooms",
+      "bacon",
+      "black olives",
+      "onions",
+      "mozzarella cheese",
+      "red & green pepper"
+    ],
+    "effort_tier": 3,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": false,
+      "contains_pork": true,
+      "gluten_free": false
+    },
+    "health_tags": {
+      "low_gi": false,
+      "low_sodium": true,
+      "low_saturated_fat": false,
+      "dairy_free": false,
+      "low_potassium": false,
+      "low_phosphorus": false
+    },
+    "nutrition": null,
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_035",
+    "source": "world_extra",
+    "name": "Singaporean Style Rice Noodles",
+    "area": "World",
+    "category": "Rice Dishes",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "225g rice vermicelli",
+      "12-16 king prawns, peeled and deveined",
+      "100g boneless chicken chopped",
+      "olive oil",
+      "red bell pepper, thinly chopped",
+      "green pepper, thinly chopped",
+      "spring onions, chopped",
+      "beansprouts",
+      "mangetout",
+      "curry powder",
+      "crushed pepper flakes",
+      "soy sauce",
+      "oyster",
+      "sesame oil",
+      "knorr chicken cube",
+      "minced ginger",
+      "minced garlic",
+      "black pepper"
+    ],
+    "effort_tier": 3,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": false
+    },
+    "health_tags": {
+      "low_gi": false,
+      "low_sodium": false,
+      "low_saturated_fat": true,
+      "dairy_free": true,
+      "low_potassium": true,
+      "low_phosphorus": true
+    },
+    "nutrition": null,
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_036",
+    "source": "world_extra",
+    "name": "Beef Stir Fry Noodles",
+    "area": "World",
+    "category": "Pasta & Noodles",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "150g egg noodles/any thinly cut pasta of your choice",
+      "150g beef thinly sliced",
+      "red, yellow and red bell pepper thinly sliced",
+      "onion thinly sliced",
+      "carrot thinly sliced",
+      "spring onions thinly sliced",
+      "100g mushroom sliced",
+      "cut green beans",
+      "sesame oil",
+      "cooking oil",
+      "soy sauce",
+      "oyster sauce",
+      "minced garlic",
+      "minced ginger",
+      "cumin",
+      "mixed herbs",
+      "chinese 5 spice",
+      "bullion cube",
+      "salt to taste"
+    ],
+    "effort_tier": 3,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": false
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": true,
+      "low_potassium": true,
+      "low_phosphorus": true
+    },
+    "nutrition": null,
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_037",
+    "source": "world_extra",
+    "name": "Shrimp And Bacon Pasta Recipe",
+    "area": "World",
+    "category": "Pasta & Noodles",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "500g pasta",
+      "olive oil",
+      "butter",
+      "cajun seasoning",
+      "peeled and deveined large shrimp",
+      "200g bacon",
+      "heavy/double cream",
+      "chicken stock",
+      "chopped onion",
+      "chopped green pepper",
+      "garlic, minced",
+      "red pepper flakes",
+      "knorr chicken cube",
+      "salt"
+    ],
+    "effort_tier": 2,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": false,
+      "contains_pork": true,
+      "gluten_free": false
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": false,
+      "low_potassium": true,
+      "low_phosphorus": false
+    },
+    "nutrition": null,
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_038",
+    "source": "world_extra",
+    "name": "Ingredients:",
+    "area": "World",
+    "category": "Main Course",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "300g boneless chicken",
+      "sunflower oil",
+      "yellow, red and green bell peppers",
+      "red onion",
+      "carrots",
+      "beansprouts",
+      "handful mangetout",
+      "you can mix and match your vegetables, use pretty much any thing you want.",
+      "for the chicken",
+      "garlic powder",
+      "a teaspoon black pepper",
+      "teaspoon chicken seasoning",
+      "cornflour",
+      "for the sauce",
+      "hoisin sauce, substitute for oyster sauce",
+      "soy sauce",
+      "inch ginger root, grated",
+      "garlic cloves",
+      "sesame oil",
+      "rice"
+    ],
+    "effort_tier": 3,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": false
+    },
+    "health_tags": {
+      "low_gi": false,
+      "low_sodium": false,
+      "low_saturated_fat": true,
+      "dairy_free": true,
+      "low_potassium": true,
+      "low_phosphorus": true
+    },
+    "nutrition": null,
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_039",
+    "source": "world_extra",
+    "name": "Curry Goat Recipe – Caribbean Style!",
+    "area": "World",
+    "category": "Main Course",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "goat meat",
+      "jamaican curry powder",
+      "achar/amchar masala",
+      "jeera powder",
+      "cooking oil",
+      "large onion chopped",
+      "scotch bonnet, seeded and chopped",
+      "of spring of onions chopped",
+      "thyme",
+      "teaspoon black pepper",
+      "knorr cube",
+      "water",
+      "salt to tatse"
+    ],
+    "effort_tier": 2,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": true,
+      "low_potassium": true,
+      "low_phosphorus": true
+    },
+    "nutrition": null,
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_040",
+    "source": "world_extra",
+    "name": "Easy Beef Curry Recipe",
+    "area": "World",
+    "category": "Main Course",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "800g beef with bones diced into chunks",
+      "vegetable oil",
+      "chopped onions",
+      "chopped potatoes",
+      "100g natural/plain yoghurt",
+      "cloves",
+      "turmeric powder",
+      "black pepper",
+      "chopped carrots",
+      "ground cinnamon",
+      "cardamom pods",
+      "black ground pepper",
+      "coriander powder",
+      "chilli powder",
+      "minced ginger",
+      "minced garlic",
+      "cumin powder",
+      "handful chopped spring onions",
+      "red chillis, chopped",
+      "bay leaves",
+      "salt to taste"
+    ],
+    "effort_tier": 3,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": true,
+      "low_saturated_fat": false,
+      "dairy_free": false,
+      "low_potassium": true,
+      "low_phosphorus": false
+    },
+    "nutrition": null,
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_041",
+    "source": "world_extra",
+    "name": "Chinese Beef Stir Fry With Crunchy Vegetables",
+    "area": "World",
+    "category": "Main Course",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "300g beef cut into strips",
+      "vegetable oil",
+      "sesame oil",
+      "cornflour",
+      "soy sauce",
+      "2-3 sweet bell peppers cut into strips",
+      "minced garlic",
+      "minced ginger",
+      "tablespoon butter",
+      "trimmed runner beans",
+      "brown sugar",
+      "medium onion, sliced",
+      "garlic powder",
+      "beef seasoning",
+      "salt to taste"
+    ],
+    "effort_tier": 3,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": false
+    },
+    "health_tags": {
+      "low_gi": false,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": false,
+      "low_potassium": true,
+      "low_phosphorus": false
+    },
+    "nutrition": null,
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_042",
+    "source": "world_extra",
+    "name": "Baked Jerk Chicken Drumsticks Recipe",
+    "area": "World",
+    "category": "Grills & BBQ",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "10-12 chicken drumsticks",
+      "all spice",
+      "onion powder",
+      "garlic powder",
+      "dried thyme",
+      "knorr chicken cubes",
+      "brown sugar",
+      "white pepper",
+      "ginger powder",
+      "smoked paprika",
+      "cinnamon powder",
+      "cayenne pepper",
+      "dry parsely",
+      "nutmeg powder",
+      "salt"
+    ],
+    "effort_tier": 3,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": false,
+      "low_sodium": false,
+      "low_saturated_fat": true,
+      "dairy_free": true,
+      "low_potassium": true,
+      "low_phosphorus": true
+    },
+    "nutrition": null,
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_043",
+    "source": "world_extra",
+    "name": "Stir Fry Noodles With Beef Recipe",
+    "area": "World",
+    "category": "Pasta & Noodles",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "i pack noodles",
+      "200g beef",
+      "vegetable oil",
+      "green red bell pepper chopped into strips",
+      "red bell pepper chopped into strips",
+      "spring onions chopped",
+      "minced garlic",
+      "garlic cloves",
+      "onion",
+      "tablespoon cornflour",
+      "knorr chicken cube",
+      "garlic powder",
+      "for the sauce",
+      "soy sauce",
+      "hoisin sauce",
+      "rich chicken stock",
+      "brown sugar",
+      "sesame oil"
+    ],
+    "effort_tier": 3,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": false
+    },
+    "health_tags": {
+      "low_gi": false,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": true,
+      "low_potassium": true,
+      "low_phosphorus": true
+    },
+    "nutrition": null,
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_044",
+    "source": "world_extra",
+    "name": "Spicy Grilled Chicken And Potato Curry",
+    "area": "World",
+    "category": "Grills & BBQ",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "potatoes",
+      "chicken",
+      "rich chicken stock",
+      "coloured bell peppers",
+      "1-2 scotch bonnet peppers",
+      "onion",
+      "big carrots",
+      "ginger paste",
+      "garlic paste",
+      "corn flour",
+      "to season the chicken (5 chicken thighs/ drumstick:",
+      "garlic powder",
+      "teaspon ginger powder",
+      "tablespoon curry powder",
+      "thyme",
+      "knorr chicken cubes",
+      "cumin powder"
+    ],
+    "effort_tier": 3,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": false
+    },
+    "health_tags": {
+      "low_gi": false,
+      "low_sodium": false,
+      "low_saturated_fat": true,
+      "dairy_free": true,
+      "low_potassium": true,
+      "low_phosphorus": true
+    },
+    "nutrition": null,
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_045",
+    "source": "world_extra",
+    "name": "Indomie Noodles Stir Fry: Sisi Jemimah’s Way",
+    "area": "World",
+    "category": "Pasta & Noodles",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "4-6 packets of indomie noodles",
+      "diced chicken breast",
+      "bacon",
+      "mushroom",
+      "prawns",
+      "vegetable oil",
+      "mixed peppers",
+      "onions",
+      "spring onions",
+      "pepper flakes",
+      "garlic powder",
+      "curry powder",
+      "chicken seasoning",
+      "chopped ginger"
+    ],
+    "effort_tier": 2,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": false,
+      "contains_pork": true,
+      "gluten_free": false
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": true,
+      "dairy_free": true,
+      "low_potassium": true,
+      "low_phosphorus": true
+    },
+    "nutrition": {
+      "calories_per_serving": 380,
+      "protein_g": 10.0,
+      "carbs_g": 56.0,
+      "fat_g": 14.0,
+      "fiber_g": 2.0,
+      "sodium_mg": null
+    },
+    "nutrition_tier": "carb_heavy",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_046",
+    "source": "world_extra",
+    "name": "Easy Mince Meat Tomato Pasta",
+    "area": "World",
+    "category": "Pasta & Noodles",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "500g mince beef",
+      "400g pasta",
+      "blended tomatoes, bell pepper and scotch bonnet",
+      "mixed vegetables",
+      "chopped bell pepper",
+      "onions",
+      "vegetable oil",
+      "chopped garlic and ginger",
+      "curry powder",
+      "paprika powder",
+      "thyme",
+      "garlic powder",
+      "chicken seasoning"
+    ],
+    "effort_tier": 2,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": false
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": true,
+      "low_potassium": false,
+      "low_phosphorus": true
+    },
+    "nutrition": null,
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_047",
+    "source": "world_extra",
+    "name": "Beef and Green Pepper Stir Fry – Beef Sauce",
+    "area": "World",
+    "category": "Main Course",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "400g diced beef",
+      "butter",
+      "chopped green bell pepper",
+      "chopped carrots",
+      "chopped onion",
+      "chopped ginger and garlic",
+      "chicken",
+      "light soy sauce",
+      "brown sugar",
+      "oyster sauce",
+      "paprika",
+      "cornflour",
+      "knorr chicken cube",
+      "crushed pepper flakes",
+      "salt to taste"
+    ],
+    "effort_tier": 3,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": false
+    },
+    "health_tags": {
+      "low_gi": false,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": false,
+      "low_potassium": true,
+      "low_phosphorus": false
+    },
+    "nutrition": null,
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_048",
+    "source": "world_extra",
+    "name": "Beef Stir- Fry Recipe – Video Recipe",
+    "area": "World",
+    "category": "Main Course",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "500g diced beef",
+      "butter",
+      "chopped green bell pepper",
+      "2- chopped red bell pepper",
+      "chopped orange/yellow bell pepper",
+      "chopped carrots",
+      "chopped onion",
+      "chopped ginger and garlic",
+      "chicken",
+      "soy sauce",
+      "smoked paprika",
+      "chicken seasoning",
+      "crushed chilli flakes",
+      "cornflour",
+      "brown sugar",
+      "salt to taste",
+      "for the beef marinade",
+      "beef seasoning",
+      "black pepper",
+      "garlic powder"
+    ],
+    "effort_tier": 3,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": false
+    },
+    "health_tags": {
+      "low_gi": false,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": false,
+      "low_potassium": true,
+      "low_phosphorus": false
+    },
+    "nutrition": null,
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_049",
+    "source": "world_extra",
+    "name": "Afrolems Chef of the week: Rachel Albert – Sweet chili and pepper salmon with Couscous and vegetable sauce",
+    "area": "World",
+    "category": "Main Course",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "couscous",
+      "salmon",
+      "thai sweet chili",
+      "one knorr cube",
+      "cayenne pepper",
+      "fresh tomatoes",
+      "red bell pepper",
+      "yellow bell pepper",
+      "green bell pepper",
+      "carrots cut thinly",
+      "broccoli",
+      "cauliflower",
+      "chili pepper paste",
+      "dry pepper",
+      "of oil",
+      "an onion",
+      "dash of mixed herbs"
+    ],
+    "effort_tier": 3,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": true,
+      "dairy_free": true,
+      "low_potassium": false,
+      "low_phosphorus": true
+    },
+    "nutrition": {
+      "calories_per_serving": 310,
+      "protein_g": 10.0,
+      "carbs_g": 48.0,
+      "fat_g": 8.0,
+      "fiber_g": 4.0,
+      "sodium_mg": null
+    },
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_050",
+    "source": "world_extra",
+    "name": "Grilled Salmon and Couscous – David",
+    "area": "World",
+    "category": "Grills & BBQ",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "salt – half teaspoon",
+      "ground black pepper- half teaspoon",
+      "ground chilli- half teaspoon",
+      "parsley- tablespoon if dry",
+      "garlic – 1/2 crushed clove",
+      "ground ginger – 1/2 teaspoon",
+      "mayo – 1 table spoon",
+      "salmon – 1 fillet",
+      "couscous – 1 cup"
+    ],
+    "effort_tier": 2,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": true,
+      "low_saturated_fat": true,
+      "dairy_free": true,
+      "low_potassium": true,
+      "low_phosphorus": true
+    },
+    "nutrition": {
+      "calories_per_serving": 310,
+      "protein_g": 10.0,
+      "carbs_g": 48.0,
+      "fat_g": 8.0,
+      "fiber_g": 4.0,
+      "sodium_mg": null
+    },
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_051",
+    "source": "world_extra",
+    "name": "African Chicken Peanut Stew Recipe",
+    "area": "World",
+    "category": "Soups & Stews",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "of chopped chicken",
+      "of groundnut",
+      "sweet potato",
+      "1.5 cooking spoons of blended tomato",
+      "chopped small tomato",
+      "handfuls of chopped onions",
+      "small piece of chopped ginger",
+      "garlic cloves",
+      "pinch of thyme",
+      "of curry",
+      "2.5 cooking spoons of oil",
+      "seasoning",
+      "salt",
+      "pepper",
+      "a pinch of parsley",
+      "bell peppers for garnishing"
+    ],
+    "effort_tier": 3,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": false,
+      "low_sodium": false,
+      "low_saturated_fat": true,
+      "dairy_free": true,
+      "low_potassium": false,
+      "low_phosphorus": true
+    },
+    "nutrition": null,
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_052",
+    "source": "world_extra",
+    "name": "Ghanian Kelewele Recipe",
+    "area": "World",
+    "category": "Main Course",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "finger of ripe plantain",
+      "a pinch of salt",
+      "1 tablespoon of pepper sauce",
+      "of ginger powder",
+      "of onion powder"
+    ],
+    "effort_tier": 1,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": true,
+      "vegan": true,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": false,
+      "low_sodium": true,
+      "low_saturated_fat": true,
+      "dairy_free": true,
+      "low_potassium": false,
+      "low_phosphorus": true
+    },
+    "nutrition": null,
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_053",
+    "source": "world_extra",
+    "name": "Spicy Noodle Frittata – Sandra Aigbinode Chef of the week",
+    "area": "World",
+    "category": "Pasta & Noodles",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "packages chicken flavored ramen",
+      "eggs",
+      "butter",
+      "shredded cheddar cheese"
+    ],
+    "effort_tier": 1,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": false
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": true,
+      "low_saturated_fat": false,
+      "dairy_free": false,
+      "low_potassium": true,
+      "low_phosphorus": false
+    },
+    "nutrition": null,
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_054",
+    "source": "world_extra",
+    "name": "Rice Burger and Shrimp Patties",
+    "area": "World",
+    "category": "Rice Dishes",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "of left over boiled rice",
+      "of shrimps",
+      "tomato",
+      "handful of chopped green pepper",
+      "seasoning cube",
+      "of oil",
+      "of flour",
+      "of hot sauce"
+    ],
+    "effort_tier": 2,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": false
+    },
+    "health_tags": {
+      "low_gi": false,
+      "low_sodium": false,
+      "low_saturated_fat": true,
+      "dairy_free": true,
+      "low_potassium": false,
+      "low_phosphorus": true
+    },
+    "nutrition": null,
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_055",
+    "source": "world_extra",
+    "name": "Rice and Peas with Coconut Curry Mackerel",
+    "area": "World",
+    "category": "Rice Dishes",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "of rice",
+      "of red kidney beans",
+      "of coconut milk",
+      "piece of mackerel",
+      "scotch bonnet peppers",
+      "of corn starch",
+      "seasoning cubes",
+      "of curry powder",
+      "bulb of onion",
+      "of garlic"
+    ],
+    "effort_tier": 2,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": false,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": false,
+      "low_potassium": true,
+      "low_phosphorus": false
+    },
+    "nutrition": null,
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_056",
+    "source": "world_extra",
+    "name": "Pink Spaghetti, Meat Balls and Creamy Sauce",
+    "area": "World",
+    "category": "Pasta & Noodles",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "meatballs",
+      "pound ground beef",
+      "of salt",
+      "of chilli powder",
+      "of curry",
+      "a pinch of thyme",
+      "stock cube",
+      "of garlic",
+      "of shredded parsley",
+      "spring onion",
+      "bread crumbs",
+      "egg",
+      "creamy sauce",
+      "of butter",
+      "garlic pieces",
+      "of heavy cream",
+      "salt",
+      "pepper",
+      "chicken seasoning",
+      "cheese *optional*"
+    ],
+    "effort_tier": 3,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": false
+    },
+    "health_tags": {
+      "low_gi": false,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": false,
+      "low_potassium": true,
+      "low_phosphorus": false
+    },
+    "nutrition": null,
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_057",
+    "source": "world_extra",
+    "name": "Spaghetti with Prawn and Beef Sauce",
+    "area": "World",
+    "category": "Pasta & Noodles",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "prawn",
+      "beef",
+      "spaghetti",
+      "tomatoes",
+      "fresh pepper",
+      "bulb of onion",
+      "carrot",
+      "green pepper",
+      "red bell pepper",
+      "yellow bell pepper",
+      "cooking spoon of vegetable/olive/corn oil",
+      "lump of butter",
+      "curry",
+      "pinch of thyme",
+      "cubes of maggi/seasoning preferred",
+      "of salt",
+      "of pepper"
+    ],
+    "effort_tier": 3,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": false,
+      "low_potassium": false,
+      "low_phosphorus": false
+    },
+    "nutrition": null,
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_058",
+    "source": "world_extra",
+    "name": "Chef of the Week: GreedyGirlCooks: Jamaican Jerk Chicken",
+    "area": "World",
+    "category": "Grills & BBQ",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "chicken seasoning:",
+      "chicken parts",
+      "oil",
+      "tsp. soy sauce",
+      "3t tsp. no salt seasoning",
+      "tsp. all spice",
+      "tsp. salt",
+      "tsp. chopped scotch bonnet pepper",
+      "tsp. garlic powder",
+      "tsp. onion powder",
+      "tsp. thyme leaves",
+      "1tsp. ginger powder",
+      "tsp. black pepper",
+      "tsp. smoked paprika",
+      "bbq sauce:",
+      "ketchup",
+      "sugar",
+      "molasses",
+      "honey",
+      "tsp. cayenne pepper"
+    ],
+    "effort_tier": 3,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": false,
+      "low_sodium": false,
+      "low_saturated_fat": true,
+      "dairy_free": true,
+      "low_potassium": true,
+      "low_phosphorus": true
+    },
+    "nutrition": null,
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_059",
+    "source": "world_extra",
+    "name": "Honey Stir Fry Chicken Sauce",
+    "area": "World",
+    "category": "Main Course",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "pound of chicken breast",
+      "of a small cabbage",
+      "of medium carrots",
+      "green bell pepper",
+      "yellow bell pepper",
+      "spring onions",
+      "red onion",
+      "scotch bonnet pepper",
+      "of ketchup",
+      "of barbecue sauce",
+      "of chili powder",
+      "a small piece of ginger",
+      "of garlic",
+      "of honey",
+      "of butter",
+      "cooking spoon of vegetable oil",
+      "seasoning cubes"
+    ],
+    "effort_tier": 3,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": false,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": false,
+      "low_potassium": true,
+      "low_phosphorus": false
+    },
+    "nutrition": null,
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_060",
+    "source": "world_extra",
+    "name": "Ugali and Sukuma Wiki",
+    "area": "World",
+    "category": "Main Course",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "ugali",
+      "of white cornmeal",
+      "of water",
+      "sukuma wiki",
+      "a small bunch of kale",
+      "tomatoes",
+      "bulb of onion",
+      "a handful of chopped carrots",
+      "seasoning cubes",
+      "cooking spoon of vegetable oil",
+      "of pepper",
+      "salt to taste"
+    ],
+    "effort_tier": 2,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": true,
+      "vegan": true,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": true,
+      "dairy_free": true,
+      "low_potassium": false,
+      "low_phosphorus": true
+    },
+    "nutrition": null,
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_061",
+    "source": "world_extra",
+    "name": "Coconut Cream Pasta Recipe",
+    "area": "World",
+    "category": "Pasta & Noodles",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "of spaghetti",
+      "of coconut cream",
+      "of chopped vegetables",
+      "bulb of onion",
+      "of chopped chicken breast",
+      "scotch bonnet pepper",
+      "melted butter",
+      "of vegetable oil",
+      "seasoning cubes",
+      "of ginger powder",
+      "of garlic",
+      "of all purpose flour",
+      "of black pepper"
+    ],
+    "effort_tier": 2,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": false
+    },
+    "health_tags": {
+      "low_gi": false,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": false,
+      "low_potassium": true,
+      "low_phosphorus": false
+    },
+    "nutrition": null,
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_062",
+    "source": "world_extra",
+    "name": "Tomato Chicken Curry with Rice",
+    "area": "World",
+    "category": "Rice Dishes",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "chopped chicken breast",
+      "of coconut milk",
+      "of water",
+      "of blended tomato",
+      "of curry powder",
+      "seasoning cubes",
+      "of pepper",
+      "of ginger",
+      "of garlic",
+      "of blended onions",
+      "cooking spoon of vegetable oil"
+    ],
+    "effort_tier": 2,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": false,
+      "low_potassium": false,
+      "low_phosphorus": false
+    },
+    "nutrition": {
+      "calories_per_serving": 320,
+      "protein_g": 30.0,
+      "carbs_g": 12.0,
+      "fat_g": 16.0,
+      "fiber_g": 2.0,
+      "sodium_mg": null
+    },
+    "nutrition_tier": "protein_heavy",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_063",
+    "source": "world_extra",
+    "name": "Avocado Pasta Recipe",
+    "area": "World",
+    "category": "Pasta & Noodles",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "avocado",
+      "i huge handful of thin spaghetti",
+      "of garlic",
+      "basil leaves",
+      "roma tomato",
+      "scotch bonnet pepper",
+      "seasoning cubes",
+      "cooking spoon of vegetable oil",
+      "of small turkey sausage"
+    ],
+    "effort_tier": 2,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": false
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": true,
+      "dairy_free": true,
+      "low_potassium": false,
+      "low_phosphorus": true
+    },
+    "nutrition": null,
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_064",
+    "source": "world_extra",
+    "name": "Lamb Coconut Tomato Curry Sauce Recipe",
+    "area": "World",
+    "category": "Main Course",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "pound of lamb",
+      "of coconut milk",
+      "of water",
+      "of blended tomato",
+      "of curry powder",
+      "seasoning cubes",
+      "of pepper",
+      "of ginger",
+      "of garlic",
+      "of blended onions",
+      "garnishing",
+      "vegetables of your choice."
+    ],
+    "effort_tier": 2,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": false,
+      "low_potassium": false,
+      "low_phosphorus": false
+    },
+    "nutrition": null,
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_065",
+    "source": "world_extra",
+    "name": "Kenyan Pilau Recipe",
+    "area": "World",
+    "category": "Main Course",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "pound of goat meat",
+      "of dressed shrimp",
+      "of rice",
+      "of garlic",
+      "cardamom pods",
+      "cloves",
+      "cinnamon sticks",
+      "of ginger",
+      "of cumin seed powder",
+      "black peppercorns",
+      "onion",
+      "tomatoes",
+      "cooking spoon of vegetable oil",
+      "seasoning cubes",
+      "salt to taste"
+    ],
+    "effort_tier": 3,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": false,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": true,
+      "low_potassium": false,
+      "low_phosphorus": true
+    },
+    "nutrition": null,
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_066",
+    "source": "world_extra",
+    "name": "Spicy Coconut Curry Beef Recipe",
+    "area": "World",
+    "category": "Main Course",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "pieces of beef",
+      "of coconut milk",
+      "of curry",
+      "bulb of onion",
+      "scotch bonnet peppers",
+      "of salt",
+      "cubes of maggi cube",
+      "of cayenne pepper",
+      "of thyme",
+      "a handful of cherry tomatoes",
+      "a handful of raisins",
+      "a handful of roasted peanuts"
+    ],
+    "effort_tier": 2,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": false,
+      "low_potassium": false,
+      "low_phosphorus": false
+    },
+    "nutrition": null,
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_067",
+    "source": "world_extra",
+    "name": "Beans Curry",
+    "area": "World",
+    "category": "Main Course",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "a cup of brown beans",
+      "one cup of coconut milk",
+      "table spoon of curry",
+      "seasoning cubes",
+      "of crayfish powder",
+      "a handful of chopped onions",
+      "scotch bonnet pepper"
+    ],
+    "effort_tier": 2,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": false,
+      "low_potassium": true,
+      "low_phosphorus": false
+    },
+    "nutrition": null,
+    "nutrition_tier": "balanced",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_068",
+    "source": "world_extra",
+    "name": "Home Made Burger Recipe",
+    "area": "World",
+    "category": "Main Course",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "pound of ground beef",
+      "bread buns",
+      "scotch bonnet pepper",
+      "bulb of onion",
+      "of garlic",
+      "of grated ginger",
+      "seasoning cubes",
+      "half a bunch of lettuce leaves",
+      "firm tomatoes",
+      "cooking spoon of vegetable oil",
+      "of mayonnaise",
+      "of sugar"
+    ],
+    "effort_tier": 2,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": false
+    },
+    "health_tags": {
+      "low_gi": false,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": true,
+      "low_potassium": false,
+      "low_phosphorus": true
+    },
+    "nutrition": null,
+    "nutrition_tier": "balanced",
+    "image_url": null
+  }
+]
