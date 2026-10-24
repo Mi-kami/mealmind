@@ -1,0 +1,1310 @@
+[
+  {
+    "source_id": "ng_004",
+    "name": "Egusi Soup",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_005",
+    "name": "Ogbono Soup (Draw Soup)",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_006",
+    "name": "Egg Stew (Nigerian Egg Sauce)",
+    "source": "nigerian_curated",
+    "tag": "vegan"
+  },
+  {
+    "source_id": "ng_014",
+    "name": "Chicken Suya",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_016",
+    "name": "Air Fryer Frozen Okra",
+    "source": "nigerian_curated",
+    "tag": "low_sodium"
+  },
+  {
+    "source_id": "ng_019",
+    "name": "Ndolé (Cameroonian Peanut and Bitterleaf Soup)",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_022",
+    "name": "Black Soup (Nigerian Efirin Soup)",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_026",
+    "name": "Suya Spice (Yaji)",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_030",
+    "name": "Pepper Soup Spice",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_034",
+    "name": "Groundnut Soup (Nigerian Peanut Soup)",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_036",
+    "name": "Ripe Plantain Pottage",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_038",
+    "name": "Asaro – Yam Pottage Recipe",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_039",
+    "name": "Stewed Seafood Okra Recipe",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_039",
+    "name": "Stewed Seafood Okra Recipe",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_040",
+    "name": "Ewedu Soup Recipe",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_040",
+    "name": "Ewedu Soup Recipe",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_042",
+    "name": "Gbegiri Soup Recipe",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_042",
+    "name": "Gbegiri Soup Recipe",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_045",
+    "name": "Egusi Pepper Soup",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_048",
+    "name": "Nigerian Style Couscous",
+    "source": "nigerian_curated",
+    "tag": "gluten_free"
+  },
+  {
+    "source_id": "ng_052",
+    "name": "Jollof Bulgur Recipe",
+    "source": "nigerian_curated",
+    "tag": "gluten_free"
+  },
+  {
+    "source_id": "ng_056",
+    "name": "Abacha and Ugba – African Salad",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_062",
+    "name": "Ogbono Okra Soup",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_064",
+    "name": "Yam Porridge – Asaro Ati Ata Dindin",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_072",
+    "name": "Nigerian Chicken Skewers – Chicken Suya Kebab",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_077",
+    "name": "Efo Riro – Kale Efo Riro",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_077",
+    "name": "Efo Riro – Kale Efo Riro",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_081",
+    "name": "Ayamase – Ofada Stew",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_081",
+    "name": "Ayamase – Ofada Stew",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_083",
+    "name": "Nigerian Stewed Beans – Ewa Riro",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_088",
+    "name": "Honey Beans and Plantain Pottage – Video",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_089",
+    "name": "Efo Riro Recipe",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_089",
+    "name": "Efo Riro Recipe",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_090",
+    "name": "Nigerian Plain Okra Soup Recipe",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_090",
+    "name": "Nigerian Plain Okra Soup Recipe",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_093",
+    "name": "Nigerian Chicken Curry – Chicken Gravy (Updated)",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_094",
+    "name": "How To Make Zobo Drink: Sorrel Drink Video",
+    "source": "nigerian_curated",
+    "tag": "vegan"
+  },
+  {
+    "source_id": "ng_094",
+    "name": "How To Make Zobo Drink: Sorrel Drink Video",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_096",
+    "name": "Nigerian Fried Pepper Stew : Ata Dindin",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_096",
+    "name": "Nigerian Fried Pepper Stew : Ata Dindin",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_097",
+    "name": "Nigerian Scotch Eggs – Video Recipe",
+    "source": "nigerian_curated",
+    "tag": "low_sodium"
+  },
+  {
+    "source_id": "ng_097",
+    "name": "Nigerian Scotch Eggs – Video Recipe",
+    "source": "nigerian_curated",
+    "tag": "low_saturated_fat"
+  },
+  {
+    "source_id": "ng_099",
+    "name": "Ewa Agoyin And Agoyin Sauce Recipe (VIDEO)",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_099",
+    "name": "Ewa Agoyin And Agoyin Sauce Recipe (VIDEO)",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_100",
+    "name": "Ogbono Soup Recipe",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_102",
+    "name": "Obe Ata Dindin – Ofada Sauce",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_102",
+    "name": "Obe Ata Dindin – Ofada Sauce",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_104",
+    "name": "Native Jollof Rice – Iwuk Edesi",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_105",
+    "name": "Locust Beans Stew Recipe – Obe Ata Iru",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_105",
+    "name": "Locust Beans Stew Recipe – Obe Ata Iru",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_108",
+    "name": "How to make Zobo Drink – Sorrel Drink",
+    "source": "nigerian_curated",
+    "tag": "vegan"
+  },
+  {
+    "source_id": "ng_108",
+    "name": "How to make Zobo Drink – Sorrel Drink",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_113",
+    "name": "Basmati Fried Rice Recipe- Nigerian Fried Rice (Video)",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_113",
+    "name": "Basmati Fried Rice Recipe- Nigerian Fried Rice (Video)",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_123",
+    "name": "NIGERIAN OKRA SOUP – NIGERIAN OKRO SOUP RECIPE",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_123",
+    "name": "NIGERIAN OKRA SOUP – NIGERIAN OKRO SOUP RECIPE",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_124",
+    "name": "Jollof Rice with a Twist",
+    "source": "nigerian_curated",
+    "tag": "low_saturated_fat"
+  },
+  {
+    "source_id": "ng_126",
+    "name": "Spaghetti with spicy thai tuna(canned) by Demilade Adeniyi-Taiwo",
+    "source": "nigerian_curated",
+    "tag": "gluten_free"
+  },
+  {
+    "source_id": "ng_126",
+    "name": "Spaghetti with spicy thai tuna(canned) by Demilade Adeniyi-Taiwo",
+    "source": "nigerian_curated",
+    "tag": "low_sodium"
+  },
+  {
+    "source_id": "ng_127",
+    "name": "Sweet potato fries served with plantain and stew – David Momoh",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_131",
+    "name": "Pineapple Fried Rice",
+    "source": "nigerian_curated",
+    "tag": "gluten_free"
+  },
+  {
+    "source_id": "ng_131",
+    "name": "Pineapple Fried Rice",
+    "source": "nigerian_curated",
+    "tag": "low_sodium"
+  },
+  {
+    "source_id": "ng_134",
+    "name": "How to Make Suya Pepper Spice",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_136",
+    "name": "Ewa Agoyin (Stewed Beans Porridge) – Feyisope",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_142",
+    "name": "Suya flavored Mashed Potato",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_146",
+    "name": "Dodo Ikire and Groundnut",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_146",
+    "name": "Dodo Ikire and Groundnut",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_150",
+    "name": "How Afrolems makes Moin-Moin",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_151",
+    "name": "How to Make Gbegiri (Beans) Nigerian Soup – Feyisope Akinyosoye",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_155",
+    "name": "Ukana Sauce / Ugba Sauce",
+    "source": "nigerian_curated",
+    "tag": "low_sodium"
+  },
+  {
+    "source_id": "ng_169",
+    "name": "Akara Recipe (Bean Cake)",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_169",
+    "name": "Akara Recipe (Bean Cake)",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_176",
+    "name": "Shrimp Fried Rice",
+    "source": "nigerian_curated",
+    "tag": "gluten_free"
+  },
+  {
+    "source_id": "ng_178",
+    "name": "How to make Nigerian Fried Rice",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_178",
+    "name": "How to make Nigerian Fried Rice",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_180",
+    "name": "Scotch Egg Recipe",
+    "source": "nigerian_curated",
+    "tag": "low_saturated_fat"
+  },
+  {
+    "source_id": "ng_187",
+    "name": "Garri Foto Recipe",
+    "source": "nigerian_curated",
+    "tag": "vegan"
+  },
+  {
+    "source_id": "ng_187",
+    "name": "Garri Foto Recipe",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_188",
+    "name": "Nigerian Yam and Egg",
+    "source": "nigerian_curated",
+    "tag": "vegan"
+  },
+  {
+    "source_id": "ng_190",
+    "name": "Otong Soup",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_190",
+    "name": "Otong Soup",
+    "source": "nigerian_curated",
+    "tag": "low_sodium"
+  },
+  {
+    "source_id": "ng_192",
+    "name": "Fried Yam and Spicy Mayo",
+    "source": "nigerian_curated",
+    "tag": "vegan"
+  },
+  {
+    "source_id": "ng_193",
+    "name": "Nigerian Buns",
+    "source": "nigerian_curated",
+    "tag": "vegan"
+  },
+  {
+    "source_id": "ng_194",
+    "name": "Banga Rice",
+    "source": "nigerian_curated",
+    "tag": "low_sodium"
+  },
+  {
+    "source_id": "ng_210",
+    "name": "Nigerian Peanut Butter",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_214",
+    "name": "Nigerian Beans Pottage and Plantain",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_215",
+    "name": "Efo Riro Nigerian Soup Recipe with Pounded Yam",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_216",
+    "name": "Chinese Fried Rice",
+    "source": "nigerian_curated",
+    "tag": "vegan"
+  },
+  {
+    "source_id": "ng_216",
+    "name": "Chinese Fried Rice",
+    "source": "nigerian_curated",
+    "tag": "gluten_free"
+  },
+  {
+    "source_id": "ng_216",
+    "name": "Chinese Fried Rice",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_216",
+    "name": "Chinese Fried Rice",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_216",
+    "name": "Chinese Fried Rice",
+    "source": "nigerian_curated",
+    "tag": "low_sodium"
+  },
+  {
+    "source_id": "ng_217",
+    "name": "Rice and Beans",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_217",
+    "name": "Rice and Beans",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_220",
+    "name": "Zobo Drink",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_224",
+    "name": "Zobo Chapman",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_226",
+    "name": "Akara Pancake",
+    "source": "nigerian_curated",
+    "tag": "vegan"
+  },
+  {
+    "source_id": "ng_228",
+    "name": "Uziza Chicken Stir Fry Recipe",
+    "source": "nigerian_curated",
+    "tag": "gluten_free"
+  },
+  {
+    "source_id": "ng_228",
+    "name": "Uziza Chicken Stir Fry Recipe",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_229",
+    "name": "Zobo Chicken Pops",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_230",
+    "name": "Ayamase Stir Fry Chicken",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_230",
+    "name": "Ayamase Stir Fry Chicken",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_232",
+    "name": "Beniseed Soup",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_236",
+    "name": "Afiame Soup Recipe",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_236",
+    "name": "Afiame Soup Recipe",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_247",
+    "name": "Akara Fish Tempura",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_247",
+    "name": "Akara Fish Tempura",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_249",
+    "name": "Honey Yaji Yam Crisps",
+    "source": "nigerian_curated",
+    "tag": "vegan"
+  },
+  {
+    "source_id": "ng_250",
+    "name": "Mixed Egusi Brittle",
+    "source": "nigerian_curated",
+    "tag": "vegan"
+  },
+  {
+    "source_id": "ng_250",
+    "name": "Mixed Egusi Brittle",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_250",
+    "name": "Mixed Egusi Brittle",
+    "source": "nigerian_curated",
+    "tag": "low_saturated_fat"
+  },
+  {
+    "source_id": "ng_252",
+    "name": "Akara Fried Chicken",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_252",
+    "name": "Akara Fried Chicken",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_254",
+    "name": "Oat Moin Moin",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_257",
+    "name": "Ekuru and Ata Din Din",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_257",
+    "name": "Ekuru and Ata Din Din",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_258",
+    "name": "Beans and Plantain Moi Moi",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_259",
+    "name": "How to Make Gbegiri Soup",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_259",
+    "name": "How to Make Gbegiri Soup",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_261",
+    "name": "How to make Alapa (Beans & Egusi)",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_261",
+    "name": "How to make Alapa (Beans & Egusi)",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_264",
+    "name": "Banana Peanut Butter Puff Puff",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_265",
+    "name": "Iru Puff Puff",
+    "source": "nigerian_curated",
+    "tag": "low_sodium"
+  },
+  {
+    "source_id": "ng_267",
+    "name": "Cinnamon Raisin Puff Puff",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_269",
+    "name": "GOAT CHEESE PUFF PUFF",
+    "source": "nigerian_curated",
+    "tag": "low_sodium"
+  },
+  {
+    "source_id": "ng_277",
+    "name": "Garri Cookies",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_280",
+    "name": "Fried Rice",
+    "source": "nigerian_curated",
+    "tag": "gluten_free"
+  },
+  {
+    "source_id": "ng_286",
+    "name": "Gbegiri (Bean Soup)",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_286",
+    "name": "Gbegiri (Bean Soup)",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_287",
+    "name": "Moin Moin",
+    "source": "nigerian_curated",
+    "tag": "vegan"
+  },
+  {
+    "source_id": "ng_287",
+    "name": "Moin Moin",
+    "source": "nigerian_curated",
+    "tag": "low_sodium"
+  },
+  {
+    "source_id": "ng_288",
+    "name": "Ewa Agoyin",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_288",
+    "name": "Ewa Agoyin",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_288",
+    "name": "Ewa Agoyin",
+    "source": "nigerian_curated",
+    "tag": "low_sodium"
+  },
+  {
+    "source_id": "ng_290",
+    "name": "Adalu (Beans and Corn Porridge)",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_290",
+    "name": "Adalu (Beans and Corn Porridge)",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_291",
+    "name": "Suya",
+    "source": "nigerian_curated",
+    "tag": "low_sodium"
+  },
+  {
+    "source_id": "ng_294",
+    "name": "Asun",
+    "source": "nigerian_curated",
+    "tag": "low_sodium"
+  },
+  {
+    "source_id": "ng_298",
+    "name": "Ayamase",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_298",
+    "name": "Ayamase",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_299",
+    "name": "Ewedu",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_299",
+    "name": "Ewedu",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_303",
+    "name": "Corn Soup",
+    "source": "nigerian_curated",
+    "tag": "low_sodium"
+  },
+  {
+    "source_id": "ng_306",
+    "name": "Egusi",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_310",
+    "name": "Ofada Stew (Ayamase)",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_310",
+    "name": "Ofada Stew (Ayamase)",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_324",
+    "name": "Puff Puff",
+    "source": "nigerian_curated",
+    "tag": "low_sodium"
+  },
+  {
+    "source_id": "ng_327",
+    "name": "Meat Pie",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_345",
+    "name": "Ayamase Sauce",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_345",
+    "name": "Ayamase Sauce",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_350",
+    "name": "Blended Ogbono Soup",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_351",
+    "name": "Bole (Plantain) and Fish",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_352",
+    "name": "Bole (Roasted)",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_353",
+    "name": "Bole (Special)",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_353",
+    "name": "Bole (Special)",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_354",
+    "name": "Boli",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_365",
+    "name": "Efo Egusi",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_366",
+    "name": "Efo Elegusi",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_369",
+    "name": "Egusi Soup (Full)",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_374",
+    "name": "Ewedu Soup",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_374",
+    "name": "Ewedu Soup",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_375",
+    "name": "Fufu and Egusi Soup",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_376",
+    "name": "Gizdodo",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_377",
+    "name": "Ikokore",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_378",
+    "name": "Ikokore (Special)",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_387",
+    "name": "Kuli Kuli (Groundnut Peanut) Snacks",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_389",
+    "name": "Miyan Taushe",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_391",
+    "name": "Moi Moi",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_391",
+    "name": "Moi Moi",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_392",
+    "name": "Moi Moi (Ijebu)",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_392",
+    "name": "Moi Moi (Ijebu)",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_393",
+    "name": "Moi Moi (Puff Puff)",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_393",
+    "name": "Moi Moi (Puff Puff)",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_396",
+    "name": "Ofada Rice (Special)",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_396",
+    "name": "Ofada Rice (Special)",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_397",
+    "name": "Ofada Rice and Ayamase Sauce",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_397",
+    "name": "Ofada Rice and Ayamase Sauce",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_399",
+    "name": "Ogbono Soup (Full)",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_403",
+    "name": "Owo Soup (Plantain)",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_405",
+    "name": "Owo Soup (White)",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_407",
+    "name": "Pounded Yam (With Egusi and Ogbono)",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_408",
+    "name": "Pounded Yam and Egusi Soup",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "ng_409",
+    "name": "Puff Puff (Jumbo)",
+    "source": "nigerian_curated",
+    "tag": "vegan"
+  },
+  {
+    "source_id": "ng_410",
+    "name": "Puff Puff (Large)",
+    "source": "nigerian_curated",
+    "tag": "vegan"
+  },
+  {
+    "source_id": "ng_411",
+    "name": "Puff Puff (Mini)",
+    "source": "nigerian_curated",
+    "tag": "vegan"
+  },
+  {
+    "source_id": "ng_416",
+    "name": "Tom Brown",
+    "source": "nigerian_curated",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "ng_416",
+    "name": "Tom Brown",
+    "source": "nigerian_curated",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "wx_002",
+    "name": "Slow Cooker Beef Curry",
+    "source": "world_extra",
+    "tag": "low_sodium"
+  },
+  {
+    "source_id": "wx_004",
+    "name": "Keto Mushroom Soup",
+    "source": "world_extra",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "wx_006",
+    "name": "Harissa Chicken (Spicy North African Chicken)",
+    "source": "world_extra",
+    "tag": "low_sodium"
+  },
+  {
+    "source_id": "wx_010",
+    "name": "Kuku Paka (Kenyan Chicken Curry)",
+    "source": "world_extra",
+    "tag": "low_sodium"
+  },
+  {
+    "source_id": "wx_021",
+    "name": "Shakshuka for One (North African Poached Eggs)",
+    "source": "world_extra",
+    "tag": "vegan"
+  },
+  {
+    "source_id": "wx_022",
+    "name": "Keto Pizza",
+    "source": "world_extra",
+    "tag": "low_sodium"
+  },
+  {
+    "source_id": "wx_029",
+    "name": "Cajun Chicken Pasta Recipe",
+    "source": "world_extra",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "wx_031",
+    "name": "Thai Shrimp Curry Recipe",
+    "source": "world_extra",
+    "tag": "low_sodium"
+  },
+  {
+    "source_id": "wx_032",
+    "name": "Chicken And Mushroom Stir Fry",
+    "source": "world_extra",
+    "tag": "gluten_free"
+  },
+  {
+    "source_id": "wx_032",
+    "name": "Chicken And Mushroom Stir Fry",
+    "source": "world_extra",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "wx_032",
+    "name": "Chicken And Mushroom Stir Fry",
+    "source": "world_extra",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "wx_034",
+    "name": "Homemade Pizza – Chicken, Bacon and Mushroom",
+    "source": "world_extra",
+    "tag": "low_sodium"
+  },
+  {
+    "source_id": "wx_035",
+    "name": "Singaporean Style Rice Noodles",
+    "source": "world_extra",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "wx_036",
+    "name": "Beef Stir Fry Noodles",
+    "source": "world_extra",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "wx_036",
+    "name": "Beef Stir Fry Noodles",
+    "source": "world_extra",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "wx_038",
+    "name": "Ingredients:",
+    "source": "world_extra",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "wx_040",
+    "name": "Easy Beef Curry Recipe",
+    "source": "world_extra",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "wx_041",
+    "name": "Chinese Beef Stir Fry With Crunchy Vegetables",
+    "source": "world_extra",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "wx_043",
+    "name": "Stir Fry Noodles With Beef Recipe",
+    "source": "world_extra",
+    "tag": "low_phosphorus"
+  },
+  {
+    "source_id": "wx_044",
+    "name": "Spicy Grilled Chicken And Potato Curry",
+    "source": "world_extra",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "wx_045",
+    "name": "Indomie Noodles Stir Fry: Sisi Jemimah’s Way",
+    "source": "world_extra",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "wx_045",
+    "name": "Indomie Noodles Stir Fry: Sisi Jemimah’s Way",
+    "source": "world_extra",
+    "tag": "low_saturated_fat"
+  },
+  {
+    "source_id": "wx_048",
+    "name": "Beef Stir- Fry Recipe – Video Recipe",
+    "source": "world_extra",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "wx_049",
+    "name": "Afrolems Chef of the week: Rachel Albert – Sweet chili and pepper salmon with Couscous and vegetable sauce",
+    "source": "world_extra",
+    "tag": "gluten_free"
+  },
+  {
+    "source_id": "wx_050",
+    "name": "Grilled Salmon and Couscous – David",
+    "source": "world_extra",
+    "tag": "gluten_free"
+  },
+  {
+    "source_id": "wx_053",
+    "name": "Spicy Noodle Frittata – Sandra Aigbinode Chef of the week",
+    "source": "world_extra",
+    "tag": "low_sodium"
+  },
+  {
+    "source_id": "wx_055",
+    "name": "Rice and Peas with Coconut Curry Mackerel",
+    "source": "world_extra",
+    "tag": "low_potassium"
+  },
+  {
+    "source_id": "wx_057",
+    "name": "Spaghetti with Prawn and Beef Sauce",
+    "source": "world_extra",
+    "tag": "gluten_free"
+  },
+  {
+    "source_id": "wx_058",
+    "name": "Chef of the Week: GreedyGirlCooks: Jamaican Jerk Chicken",
+    "source": "world_extra",
+    "tag": "gluten_free"
+  },
+  {
+    "source_id": "wx_063",
+    "name": "Avocado Pasta Recipe",
+    "source": "world_extra",
+    "tag": "low_saturated_fat"
+  },
+  {
+    "source_id": "wx_067",
+    "name": "Beans Curry",
+    "source": "world_extra",
+    "tag": "low_potassium"
+  }
+]
