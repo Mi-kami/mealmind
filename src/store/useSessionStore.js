@@ -30,7 +30,7 @@ export const useSessionStore = create((set) => ({
 
   setSuggestions: (suggestions) => set({
     rankedSuggestions: suggestions,
-    shownDishIds: suggestions.map(s => s.id),
+    shownDishIds: suggestions.map(s => s.source_id),
   }),
 
   addShownDishId: (id) => set((state) => ({
