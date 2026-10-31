@@ -68,6 +68,7 @@ export function filterByDislikes(dishes, dislikedFoods = []) {
 }
 
 // ── Meal type ───────────────────────────────────────────────────────
+// Desserts stay in the dataset but only appear if a dessert is asked for.
 export function filterByMealType(dishes, mealType = 'any') {
   if (mealType === 'any') {
     return dishes.filter((d) => !(d.meal_type?.length === 1 && d.meal_type[0] === 'dessert'))
@@ -77,12 +78,28 @@ export function filterByMealType(dishes, mealType = 'any') {
   )
 }
 
+// ── Cuisine preference ──────────────────────────────────────────────
+export const isNigerianDish = (d) => d.area === 'Nigerian' || d.source === 'nigerian_curated'
+
+export function filterByCuisine(dishes, preference = 'both') {
+  if (preference === 'nigerian') return dishes.filter(isNigerianDish)
+  if (preference === 'international') return dishes.filter((d) => !isNigerianDish(d))
+  return dishes
+}
+
 // ── Runs everything in the agreed order ─────────────────────────────
 export function applyHardFilters(
   dishes,
-  { dietaryFilters = [], healthConditions = [], dislikedFoods = [], mealType = 'any' } = {}
+  {
+    dietaryFilters = [],
+    healthConditions = [],
+    dislikedFoods = [],
+    mealType = 'any',
+    cuisinePreference = 'both',
+  } = {}
 ) {
   let result = filterByMealType(dishes, mealType)
+  result = filterByCuisine(result, cuisinePreference)
   result = filterByDietary(result, dietaryFilters)
   result = filterByHealth(result, healthConditions)
   result = filterByDislikes(result, dislikedFoods)

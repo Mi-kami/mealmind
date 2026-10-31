@@ -1,0 +1,458 @@
+[
+  {
+    "source_id": "mdb_0001",
+    "source": "mealdb",
+    "name": "Acaraje black-eyed pea fritters with shrimp filling",
+    "area": "International",
+    "category": "Seafood",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "black eyed peas",
+      "garlic",
+      "green chilli",
+      "red onions",
+      "plain flour",
+      "salt",
+      "chilli powder",
+      "baking powder",
+      "vegetable oil",
+      "red onions",
+      "ginger",
+      "garlic",
+      "red chilli",
+      "raw tiger prawns",
+      "vegetable oil",
+      "plum tomatoes",
+      "coriander",
+      "lime"
+    ],
+    "effort_tier": 3,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": false
+    },
+    "health_tags": {
+      "low_gi": false,
+      "low_sodium": false,
+      "low_saturated_fat": true,
+      "dairy_free": true,
+      "low_potassium": false,
+      "low_phosphorus": true
+    },
+    "nutrition": {
+      "calories_per_serving": null,
+      "protein_g": null,
+      "carbs_g": null,
+      "fat_g": null,
+      "fiber_g": null
+    },
+    "nutrition_tier": "carb_heavy",
+    "image_url": "https://www.themealdb.com/images/media/meals/dxs5t71782678369.jpg",
+    "instructions": "step 1\r\nMake the filling by placing the onion, ginger, garlic, chilli, and some salt into food processor. Purée until smooth. Heat the oil in a frying pan and pour the purée into it. Fry for 5 mins or..."
+  },
+  {
+    "source_id": "mdb_0002",
+    "source": "mealdb",
+    "name": "Achiote Oil (Aceite Achiotado) Recipe",
+    "area": "International",
+    "category": "Miscellaneous",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "vegetable oil",
+      "achiote seeds"
+    ],
+    "effort_tier": 1,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": true,
+      "vegan": true,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": true,
+      "low_saturated_fat": true,
+      "dairy_free": true,
+      "low_potassium": true,
+      "low_phosphorus": false
+    },
+    "nutrition": {
+      "calories_per_serving": null,
+      "protein_g": null,
+      "carbs_g": null,
+      "fat_g": null,
+      "fiber_g": null
+    },
+    "nutrition_tier": "light",
+    "image_url": "https://www.themealdb.com/images/media/meals/iuws3q1783801530.jpg",
+    "instructions": "Heat the vegetable or olive oil and Achiote seeds in a small skillet over medium heat for about 2 to 3 minutes.\r\nDon't let the seeds turn black. Remove the skillet from the heat and let stand for 5 mi..."
+  },
+  {
+    "source_id": "mdb_0003",
+    "source": "mealdb",
+    "name": "Adana kebab",
+    "area": "Turkish",
+    "category": "Lamb",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "romano pepper",
+      "lamb mince",
+      "red pepper paste",
+      "pul biber",
+      "sunflower oil"
+    ],
+    "effort_tier": 1,
+    "prep_time_minutes": null,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": true,
+      "low_saturated_fat": true,
+      "dairy_free": true,
+      "low_potassium": true,
+      "low_phosphorus": true
+    },
+    "nutrition": {
+      "calories_per_serving": null,
+      "protein_g": null,
+      "carbs_g": null,
+      "fat_g": null,
+      "fiber_g": null
+    },
+    "nutrition_tier": "light",
+    "image_url": "https://www.themealdb.com/images/media/meals/04axct1763793018.jpg",
+    "instructions": "step 1\r\nFinely chop the peppers in a food processor, then tip them in a sieve and press into the sieve so that the peppers release all of their juices. Tip into a bowl along with the mince, red pepper..."
+  },
+  {
+    "source_id": "ng_001",
+    "source": "nigerian_curated",
+    "name": "Chicken Pepper Soup",
+    "area": "Nigerian",
+    "category": "Soups & Stews",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "chicken breast",
+      "habanero pepper",
+      "bouillon powder",
+      "pepper soup spice",
+      "smoked paprika",
+      "salt",
+      "water",
+      "basil leaf"
+    ],
+    "effort_tier": 2,
+    "prep_time_minutes": 25,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": true,
+      "dairy_free": true,
+      "low_potassium": true,
+      "low_phosphorus": true
+    },
+    "nutrition": {
+      "calories_per_serving": 262,
+      "protein_g": 48,
+      "carbs_g": 1,
+      "fat_g": 6,
+      "fiber_g": 1,
+      "sodium_mg": 597
+    },
+    "nutrition_tier": "protein_heavy",
+    "image_url": null
+  },
+  {
+    "source_id": "ng_002",
+    "source": "nigerian_curated",
+    "name": "Cauliflower Jollof Rice (Nigerian Jollof Rice – Keto Version)",
+    "area": "Nigerian",
+    "category": "Rice Dishes",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "cauliflower rice",
+      "tomato",
+      "habanero pepper",
+      "red bell pepper",
+      "onion",
+      "palm oil",
+      "salt",
+      "bouillon powder",
+      "ground crayfish",
+      "black pepper",
+      "water"
+    ],
+    "effort_tier": 2,
+    "prep_time_minutes": 20,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": false,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": true,
+      "low_potassium": false,
+      "low_phosphorus": true
+    },
+    "nutrition": {
+      "calories_per_serving": 70,
+      "protein_g": 1,
+      "carbs_g": 5,
+      "fat_g": 5,
+      "fiber_g": 2,
+      "sodium_mg": 1094
+    },
+    "nutrition_tier": "light",
+    "image_url": null
+  },
+  {
+    "source_id": "ng_003",
+    "source": "nigerian_curated",
+    "name": "Nigerian Chicken Stew",
+    "area": "Nigerian",
+    "category": "Soups & Stews",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "chicken thighs",
+      "tomatoes",
+      "red bell pepper",
+      "habanero pepper",
+      "olive oil",
+      "chicken stock",
+      "onion",
+      "bouillon powder",
+      "thyme",
+      "black pepper",
+      "curry powder",
+      "salt",
+      "extra salt and black pepper"
+    ],
+    "effort_tier": 2,
+    "prep_time_minutes": 55,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": true,
+      "dairy_free": true,
+      "low_potassium": false,
+      "low_phosphorus": true
+    },
+    "nutrition": {
+      "calories_per_serving": 449,
+      "protein_g": 37,
+      "carbs_g": 4,
+      "fat_g": 31,
+      "fiber_g": 2,
+      "sodium_mg": 312
+    },
+    "nutrition_tier": "protein_heavy",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_001",
+    "source": "world_extra",
+    "name": "Pumpkin Chicken Curry",
+    "area": "World",
+    "category": "Main Course",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "olive oil",
+      "garlic cloves",
+      "onion",
+      "chicken breast",
+      "pumpkin puree",
+      "chicken stock/broth",
+      "coconut milk",
+      "tomato paste",
+      "cumin",
+      "curry powder",
+      "smoked paprika",
+      "cayenne pepper",
+      "salt"
+    ],
+    "effort_tier": 2,
+    "prep_time_minutes": 40,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": false,
+      "low_potassium": false,
+      "low_phosphorus": false
+    },
+    "nutrition": {
+      "calories_per_serving": 267,
+      "protein_g": 34,
+      "carbs_g": 5,
+      "fat_g": 12,
+      "fiber_g": 1,
+      "sodium_mg": 448
+    },
+    "nutrition_tier": "protein_heavy",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_002",
+    "source": "world_extra",
+    "name": "Slow Cooker Beef Curry",
+    "area": "World",
+    "category": "Main Course",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "stew beef",
+      "olive oil",
+      "onion",
+      "garlic cloves",
+      "full fat coconut milk",
+      "diced tomatoes",
+      "cumin",
+      "curry",
+      "smoked paprika",
+      "cayenne pepper",
+      "ground ginger",
+      "salt"
+    ],
+    "effort_tier": 3,
+    "prep_time_minutes": 490,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": false,
+      "low_potassium": false,
+      "low_phosphorus": false
+    },
+    "nutrition": {
+      "calories_per_serving": 362,
+      "protein_g": 36,
+      "carbs_g": 7,
+      "fat_g": 21,
+      "fiber_g": 2,
+      "sodium_mg": 287
+    },
+    "nutrition_tier": "protein_heavy",
+    "image_url": null
+  },
+  {
+    "source_id": "wx_003",
+    "source": "world_extra",
+    "name": "Oxtail Soup Recipe",
+    "area": "World",
+    "category": "Soups & Stews",
+    "meal_type": [
+      "lunch",
+      "dinner"
+    ],
+    "ingredients": [
+      "oxtails",
+      "olive oil",
+      "carrots",
+      "spinach",
+      "scallions",
+      "onion",
+      "garlic cloves",
+      "beef broth",
+      "smoked paprike",
+      "cayenne pepper",
+      "black pepper",
+      "bouillon powder",
+      "salt",
+      "of water"
+    ],
+    "effort_tier": 3,
+    "prep_time_minutes": 185,
+    "dietary_tags": {
+      "vegetarian": false,
+      "vegan": false,
+      "halal": true,
+      "contains_pork": false,
+      "gluten_free": true
+    },
+    "health_tags": {
+      "low_gi": true,
+      "low_sodium": false,
+      "low_saturated_fat": false,
+      "dairy_free": true,
+      "low_potassium": false,
+      "low_phosphorus": true
+    },
+    "nutrition": {
+      "calories_per_serving": 458,
+      "protein_g": 48,
+      "carbs_g": 5,
+      "fat_g": 27,
+      "fiber_g": 1,
+      "sodium_mg": 933
+    },
+    "nutrition_tier": "protein_heavy",
+    "image_url": null
+  }
+]

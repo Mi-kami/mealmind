@@ -1,0 +1,73 @@
+{
+  "total_dishes": 1277,
+  "per_source": {
+    "mealdb": 790,
+    "nigerian_curated": 419,
+    "world_extra": 68
+  },
+  "per_area_top10": {
+    "Nigerian": 419,
+    "International": 190,
+    "World": 68,
+    "British": 59,
+    "Spanish": 48,
+    "United States": 33,
+    "Turkish": 30,
+    "France": 28,
+    "Chinese": 27,
+    "Vietnamese": 27
+  },
+  "meal_type_counts": {
+    "lunch": 1036,
+    "dinner": 1036,
+    "dessert": 167,
+    "breakfast": 33,
+    "any": 45
+  },
+  "effort_tier_counts": {
+    "1": 156,
+    "2": 653,
+    "3": 468
+  },
+  "nutrition_tier_counts": {
+    "carb_heavy": 317,
+    "light": 319,
+    "protein_heavy": 196,
+    "balanced": 445
+  },
+  "dishes_with_nutrition_numbers": 452,
+  "dishes_with_prep_time": 62,
+  "dishes_with_instructions": 790,
+  "dietary_tags_true_counts": {
+    "halal": 1111,
+    "vegetarian": 515,
+    "vegan": 185,
+    "gluten_free": 765,
+    "contains_pork": 113
+  },
+  "health_tags_true_counts": {
+    "low_saturated_fat": 640,
+    "dairy_free": 800,
+    "low_phosphorus": 563,
+    "low_gi": 517,
+    "low_sodium": 357,
+    "low_potassium": 615
+  },
+  "all_field_names": [
+    "area",
+    "category",
+    "dietary_tags",
+    "effort_tier",
+    "health_tags",
+    "image_url",
+    "ingredients",
+    "instructions",
+    "meal_type",
+    "name",
+    "nutrition",
+    "nutrition_tier",
+    "prep_time_minutes",
+    "source",
+    "source_id"
+  ]
+}
